@@ -1,0 +1,15 @@
+C:\Users\maxmi\Desktop\One\house_6\bin\Debug\net6.0\house_6.exe
+C:\Users\maxmi\Desktop\One\house_6\bin\Debug\net6.0\house_6.deps.json
+C:\Users\maxmi\Desktop\One\house_6\bin\Debug\net6.0\house_6.runtimeconfig.json
+C:\Users\maxmi\Desktop\One\house_6\bin\Debug\net6.0\house_6.dll
+C:\Users\maxmi\Desktop\One\house_6\bin\Debug\net6.0\house_6.pdb
+C:\Users\maxmi\Desktop\One\house_6\obj\Debug\net6.0\house_6.csproj.AssemblyReference.cache
+C:\Users\maxmi\Desktop\One\house_6\obj\Debug\net6.0\house_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxmi\Desktop\One\house_6\obj\Debug\net6.0\house_6.AssemblyInfoInputs.cache
+C:\Users\maxmi\Desktop\One\house_6\obj\Debug\net6.0\house_6.AssemblyInfo.cs
+C:\Users\maxmi\Desktop\One\house_6\obj\Debug\net6.0\house_6.csproj.CoreCompileInputs.cache
+C:\Users\maxmi\Desktop\One\house_6\obj\Debug\net6.0\house_6.dll
+C:\Users\maxmi\Desktop\One\house_6\obj\Debug\net6.0\refint\house_6.dll
+C:\Users\maxmi\Desktop\One\house_6\obj\Debug\net6.0\house_6.pdb
+C:\Users\maxmi\Desktop\One\house_6\obj\Debug\net6.0\house_6.genruntimeconfig.cache
+C:\Users\maxmi\Desktop\One\house_6\obj\Debug\net6.0\ref\house_6.dll
